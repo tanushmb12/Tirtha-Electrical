@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <g fill="none" stroke="#2E8FF0" stroke-width="1.2" opacity="0.5">
+    <path d="M0 60 H120 L140 80 H260 L280 60 H400"/>
+    <path d="M0 140 H80 L100 160 V220 L120 240 H400"/>
+    <path d="M0 320 H160 L180 300 H320 L340 320 H400"/>
+    <path d="M60 0 V60"/>
+    <path d="M340 0 V60"/>
+    <path d="M100 220 V400"/>
+    <path d="M320 240 V400"/>
+    <path d="M200 0 V400"/>
+  </g>
+  <g fill="#F2B705">
+    <circle cx="120" cy="60" r="4"/>
+    <circle cx="280" cy="60" r="4"/>
+    <circle cx="100" cy="160" r="4"/>
+    <circle cx="120" cy="240" r="4"/>
+    <circle cx="180" cy="300" r="4"/>
+    <circle cx="340" cy="320" r="4"/>
+    <circle cx="200" cy="200" r="5"/>
+  </g>
+</svg>
